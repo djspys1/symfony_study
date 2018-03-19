@@ -9,3 +9,7 @@
 * [symfony作者博客](http://fabien.potencier.org/ "symfony作者博客")
 * [symfony中文官网](http://www.symfonychina.com/doc/current/index.html "symfony中文教程")
 * [野火兔的窝symfony2教程](http://blog.51cto.com/firehare/592385 "野火兔的窝个人博客")
+
+### symfony组件相关
+* [前端模板引擎twig](https://twig.symfony.com/ "twig官网")
+* [数据库doctrine官网](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/index.html "数据库")
